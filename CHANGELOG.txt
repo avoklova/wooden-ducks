@@ -24,3 +24,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - a graph was added that plots mass of the nest against number of eggs
 
+## [0.3.0] - 2021-06-03
+
+### Added
+
+- LICENSE
