@@ -1,0 +1,26 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.1.0] - 2021-06-03
+
+### Added
+
+- raw data has been collected
+- raw data is combined into one file, WD_data_obs1to11.csv found in Data/clean
+- some irrelevant data was deleted
+
+## [0.2.0] - 2021-06-03
+
+### Fixed
+
+- the units of the mass were made uniform
+- in observation 7 a question mark was deleted from column G
+
+### Added
+
+- a graph was added that plots mass of the nest against number of eggs
+
